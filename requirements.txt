@@ -3,3 +3,7 @@ pandas
 numpy
 matplotlib
 scikit-learn
+transformers==4.39.3
+faiss
+tqdm
+torch
